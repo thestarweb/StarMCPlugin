@@ -1,0 +1,4 @@
+name: StarMCPlugin
+main: cn.thestarweb.mc.StarMCPlugin.main
+version: 1.0.0.0000
+author: star

@@ -1,5 +1,7 @@
 *.class
 
+work/*
+
 # BlueJ files
 *.ctxt
 
